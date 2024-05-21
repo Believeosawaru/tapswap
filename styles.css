@@ -45,16 +45,16 @@ header h3 {
 header p {
     font-weight: 300;
     font-size: 15px;
-    margin-top: 5px;
+    margin-top: 8px;
 }
 header button {
-    background: white;
+    background: #fff;
     color: black;
     border: none;
     padding: 3px 20px;
     border-radius: 10px;
     height: 30px;
-    margin: 10px 45px 0px 45px;
+    margin: 0px 45px 0px 45px;
 }
 section {
     background: #243b55;
