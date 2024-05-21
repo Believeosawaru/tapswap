@@ -17,6 +17,7 @@ nav {
     border-bottom: 1px solid #243b55;
     text-align: right;
     color: #ccc;
+    position: sticky;
 } 
 header {
     background: #141e30;
@@ -29,7 +30,7 @@ header {
     line-height: 2.1em;
 }
 header h2 {
-    font-size: 5.3vw;
+    font-size: 7.3vw;
 }
 header h3 {
     padding: 0px 10px;
@@ -55,7 +56,6 @@ section {
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     margin: 25px 0px 0px 15px;
-    height: 240px;
 }
 section h4 {
     text-align: right;
