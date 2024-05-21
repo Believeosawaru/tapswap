@@ -48,8 +48,8 @@ header p {
     margin-top: 5px;
 }
 header button {
-    background: #243b55;
-    color: white;
+    background: white;
+    color: black;
     border: none;
     padding: 3px 20px;
     border-radius: 10px;
@@ -61,7 +61,7 @@ section {
     padding: 15px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    margin: 25px 0px 0px 15px;
+    margin: 35px 0px 0px 15px;
 }
 section h4 {
     text-align: right;
