@@ -7,8 +7,8 @@ body {
     /* background: linear-gradient(135deg, #141e30, #243b55); */
     background: #141e30;
     color: white;
-    font-family: "Radio Canada Big", sans-serif;
-    /* font-family: "Poppins", sans-serif; */
+    /* font-family: "Radio Canada Big", sans-serif; */
+    font-family: "Poppins", sans-serif;
 } 
 nav {
     background: #141e30;
@@ -20,6 +20,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
+    font-family: "Poetsen One", sans-serif;
 } 
 header {
     background: #141e30;
@@ -34,15 +35,15 @@ header {
 header h2 {
     font-size: 7.3vw;
     font-family: "Poetsen One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+    font-weight: 400;
+    font-style: normal;
 }
 header h3 {
     padding: 0px 10px;
     font-size: 4vw;
 }
 header p {
-    font-weight: 100;
+    font-weight: 300;
     font-size: 15px;
     margin-top: 5px;
 }
@@ -71,7 +72,6 @@ section ul {
 }
 section li {
     font-size: 15px;
-    font-weight: 200;
     margin: 15px 5px;
 }
 section li::marker {
