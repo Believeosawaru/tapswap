@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    /* background: linear-gradient(135deg, #141e30, #243b55); */
+    background: #141e30;
+    color: white;
+    font-family: "Radio Canada Big", sans-serif;
+    /* font-family: "Poppins", sans-serif; */
+} 
+nav {
+    background: #141e30;
+    padding: 15px 20px 15px;
+    font-weight: bold;
+    border-bottom: 1px solid #243b55;
+    text-align: right;
+    color: #ccc;
+} 
+header {
+    background: #141e30;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    text-align: center;
+    height: 40vh;
+    padding: 70px 0px 10px 0px;
+    line-height: 2.1em;
+}
+header h2 {
+    font-size: 5.3vw;
+}
+header h3 {
+    padding: 0px 10px;
+    font-size: 4vw;
+}
+header p {
+    font-weight: 100;
+    font-size: 15px;
+    margin-top: 5px;
+}
+header button {
+    background: #243b55;
+    color: white;
+    border: none;
+    padding: 3px 20px;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 45px 0px 45px;
+}
+section {
+    background: #243b55;
+    padding: 15px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 25px 0px 0px 15px;
+    height: 240px;
+}
+section h4 {
+    text-align: right;
+    font-size: 14px;
+}
+section ul {
+    margin: 15px;
+}
+section li {
+    font-size: 15px;
+    font-weight: 200;
+    margin: 15px 5px;
+}
+section li::marker {
+    color: #eee;
+}
+.bold {
+    font-weight: bold;
+}
+
+/* #41295a #2f0743 */
