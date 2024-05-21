@@ -22,6 +22,11 @@ nav {
     width: 100%;
     font-family: "Poetsen One", sans-serif;
 } 
+nav svg {
+    fill: #ccc;
+    width: 20px;
+    margin: 1px 2px;
+}
 header {
     background: #141e30;
     display: grid;
